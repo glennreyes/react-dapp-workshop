@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "types": ["vite/client"]
+  },
+  "extends": "@tsconfig/vite-react/tsconfig",
+  "include": [
+    "src",
+    "postcss.config.cjs",
+    "tailwind.config.cjs",
+    "vite.config.ts"
+  ]
+}
