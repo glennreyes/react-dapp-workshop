@@ -24,6 +24,10 @@ pnpm dev
 
 https://forms.gle/BEuWiHpSJGxq3J5m7
 
+## Final Solution
+
+https://github.com/glennreyes/react-dapp
+
 ## Acknowledgements
 
 Creating the workshop materials wouldn't have been possible without:
