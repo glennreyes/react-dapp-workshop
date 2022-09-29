@@ -6,7 +6,7 @@
     "compile": "hardhat compile",
     "deploy": "hardhat run --network localhost scripts/deploy.ts",
     "node": "hardhat node",
-    "format": "pnpm lint --fix",
+    "format": "yarn lint --fix",
     "lint": "eslint --cache .",
     "typecheck": "tsc --noEmit"
   },

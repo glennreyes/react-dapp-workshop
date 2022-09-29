@@ -9,13 +9,13 @@ Welcome to the React Dapp workshop! This workshop will teach you how to build a 
 ```sh
 git clone https://github.com/glennreyes/react-dapp.git
 cd react-dapp
-pnpm install
+yarn install
 ```
 
 2. Start the development server:
 
 ```sh
-pnpm dev
+yarn dev
 ```
 
 3. Open [http://localhost:3000](http://localhost:3000) with your browser and follow the instructions on the screen.

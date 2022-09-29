@@ -58,20 +58,20 @@ export function HomePage() {
       <h3>🦄 App</h3>
       <h4>Start development server</h4>
       <Code>
-        <CodeLine>pnpm dev</CodeLine>
+        <CodeLine>yarn dev</CodeLine>
       </Code>
       <h3>🚀 Protocol</h3>
       <h4>Compile contracts</h4>
       <Code>
-        <CodeLine>pnpm compile</CodeLine>
+        <CodeLine>yarn compile</CodeLine>
       </Code>
       <h4>Start network</h4>
       <Code>
-        <CodeLine>pnpm node</CodeLine>
+        <CodeLine>yarn node</CodeLine>
       </Code>
       <h4>Deploy contracts</h4>
       <Code>
-        <CodeLine>pnpm run deploy</CodeLine>
+        <CodeLine>yarn run deploy</CodeLine>
       </Code>
       <PageNavigation className="lg:flex-row-reverse">
         <PageNavigationLink to="/connect-wallet">
