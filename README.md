@@ -20,6 +20,10 @@ pnpm dev
 
 3. Open [http://localhost:3000](http://localhost:3000) with your browser and follow the instructions on the screen.
 
+## Feedback
+
+https://forms.gle/BEuWiHpSJGxq3J5m7
+
 ## Acknowledgements
 
 Creating the workshop materials wouldn't have been possible without:
